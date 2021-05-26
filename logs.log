@@ -1,0 +1,833 @@
+2021-05-18 16:57:46,761:INFO:Initializing load_model()
+2021-05-18 16:57:46,766:INFO:load_model(model_name=gbm_model_15May2021, platform=None, authentication=None, verbose=True)
+2021-05-18 16:57:50,692:INFO:Initializing load_model()
+2021-05-18 16:57:50,708:INFO:load_model(model_name=gbm_model_15May2021, platform=None, authentication=None, verbose=True)
+2021-05-18 17:00:26,222:INFO:Initializing load_model()
+2021-05-18 17:00:26,223:INFO:load_model(model_name=gbm_model_15May2021, platform=None, authentication=None, verbose=True)
+2021-05-18 17:00:36,789:INFO:Initializing load_model()
+2021-05-18 17:00:36,790:INFO:load_model(model_name=gbm_model_15May2021, platform=None, authentication=None, verbose=True)
+2021-05-18 17:00:40,922:INFO:Initializing load_model()
+2021-05-18 17:00:40,930:INFO:load_model(model_name=gbm_model_15May2021, platform=None, authentication=None, verbose=True)
+2021-05-18 17:01:32,595:INFO:Initializing load_model()
+2021-05-18 17:01:32,599:INFO:load_model(model_name=gbm_model_15May2021, platform=None, authentication=None, verbose=True)
+2021-05-18 17:04:52,061:INFO:Initializing load_model()
+2021-05-18 17:04:52,061:INFO:load_model(model_name=gbm_model_15May2021, platform=None, authentication=None, verbose=True)
+2021-05-18 17:04:53,076:INFO:Initializing load_model()
+2021-05-18 17:04:53,076:INFO:load_model(model_name=gbm_model_15May2021, platform=None, authentication=None, verbose=True)
+2021-05-18 17:04:59,883:INFO:Initializing load_model()
+2021-05-18 17:04:59,883:INFO:load_model(model_name=gbm_model_15May2021, platform=None, authentication=None, verbose=True)
+2021-05-18 17:05:43,456:INFO:Initializing load_model()
+2021-05-18 17:05:43,456:INFO:load_model(model_name=gbm_model_15May2021, platform=None, authentication=None, verbose=True)
+2021-05-18 17:05:44,472:INFO:Initializing load_model()
+2021-05-18 17:05:44,472:INFO:load_model(model_name=gbm_model_15May2021, platform=None, authentication=None, verbose=True)
+2021-05-18 17:05:49,738:INFO:Initializing load_model()
+2021-05-18 17:05:49,739:INFO:load_model(model_name=gbm_model_15May2021, platform=None, authentication=None, verbose=True)
+2021-05-18 17:06:23,291:INFO:Initializing load_model()
+2021-05-18 17:06:23,292:INFO:load_model(model_name=gbm_model_15May2021, platform=None, authentication=None, verbose=True)
+2021-05-18 17:08:15,937:INFO:Initializing load_model()
+2021-05-18 17:08:15,938:INFO:load_model(model_name=gbm_model_15May2021, platform=None, authentication=None, verbose=True)
+2021-05-18 17:08:28,625:INFO:Initializing load_model()
+2021-05-18 17:08:28,625:INFO:load_model(model_name=gbm_model_15May2021, platform=None, authentication=None, verbose=True)
+2021-05-18 17:08:50,814:INFO:Initializing load_model()
+2021-05-18 17:08:50,815:INFO:load_model(model_name=gbm_model_15May2021, platform=None, authentication=None, verbose=True)
+2021-05-18 17:12:50,476:INFO:Initializing load_model()
+2021-05-18 17:12:50,477:INFO:load_model(model_name=gbm_model_15May2021, platform=None, authentication=None, verbose=True)
+2021-05-18 17:13:58,910:INFO:Initializing load_model()
+2021-05-18 17:13:58,911:INFO:load_model(model_name=gbm_model_15May2021, platform=None, authentication=None, verbose=True)
+2021-05-18 17:14:12,255:INFO:Initializing load_model()
+2021-05-18 17:14:12,255:INFO:load_model(model_name=gbm_model_15May2021, platform=None, authentication=None, verbose=True)
+2021-05-18 17:14:12,999:INFO:Initializing predict_model()
+2021-05-18 17:14:13,001:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      numerical_features=['Cloud3pm'],
+                                      target='RainTomorrow')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='median',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(rep...
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 LGBMClassifier(bagging_fraction=0.8608120752388259,
+                                bagging_freq=1,
+                                feature_fraction=0.4284489606984907,
+                                learning_rate=0.016133245419918712,
+                                min_child_samples=95,
+                                min_split_gain=0.8209314243567916,
+                                n_estimators=239, num_leaves=183,
+                                random_state=123,
+                                reg_alpha=8.662569304197528e-07,
+                                reg_lambda=5.001062744294253e-06)]]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2021-05-18 17:14:13,018:INFO:Checking exceptions
+2021-05-18 17:14:13,019:INFO:Preloading libraries
+2021-05-18 17:16:34,919:INFO:Initializing load_model()
+2021-05-18 17:16:34,920:INFO:load_model(model_name=gbm_model_15May2021, platform=None, authentication=None, verbose=True)
+2021-05-18 17:16:39,257:INFO:Initializing load_model()
+2021-05-18 17:16:39,258:INFO:load_model(model_name=gbm_model_15May2021, platform=None, authentication=None, verbose=True)
+2021-05-18 17:16:39,875:INFO:Initializing predict_model()
+2021-05-18 17:16:39,877:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      numerical_features=['Cloud3pm'],
+                                      target='RainTomorrow')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='median',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(rep...
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 LGBMClassifier(bagging_fraction=0.8608120752388259,
+                                bagging_freq=1,
+                                feature_fraction=0.4284489606984907,
+                                learning_rate=0.016133245419918712,
+                                min_child_samples=95,
+                                min_split_gain=0.8209314243567916,
+                                n_estimators=239, num_leaves=183,
+                                random_state=123,
+                                reg_alpha=8.662569304197528e-07,
+                                reg_lambda=5.001062744294253e-06)]]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2021-05-18 17:16:39,886:INFO:Checking exceptions
+2021-05-18 17:16:39,889:INFO:Preloading libraries
+2021-05-18 17:17:15,864:INFO:Initializing load_model()
+2021-05-18 17:17:15,865:INFO:load_model(model_name=gbm_model_15May2021, platform=None, authentication=None, verbose=True)
+2021-05-18 17:19:37,918:INFO:Initializing load_model()
+2021-05-18 17:19:37,919:INFO:load_model(model_name=gbm_model_15May2021, platform=None, authentication=None, verbose=True)
+2021-05-18 17:19:41,317:INFO:Initializing load_model()
+2021-05-18 17:19:41,318:INFO:load_model(model_name=gbm_model_15May2021, platform=None, authentication=None, verbose=True)
+2021-05-18 17:19:41,930:INFO:Initializing predict_model()
+2021-05-18 17:19:41,932:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      numerical_features=['Cloud3pm'],
+                                      target='RainTomorrow')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='median',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(rep...
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 LGBMClassifier(bagging_fraction=0.8608120752388259,
+                                bagging_freq=1,
+                                feature_fraction=0.4284489606984907,
+                                learning_rate=0.016133245419918712,
+                                min_child_samples=95,
+                                min_split_gain=0.8209314243567916,
+                                n_estimators=239, num_leaves=183,
+                                random_state=123,
+                                reg_alpha=8.662569304197528e-07,
+                                reg_lambda=5.001062744294253e-06)]]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2021-05-18 17:19:41,946:INFO:Checking exceptions
+2021-05-18 17:19:41,947:INFO:Preloading libraries
+2021-05-18 17:25:56,037:INFO:Initializing load_model()
+2021-05-18 17:25:56,038:INFO:load_model(model_name=gbm_model_15May2021, platform=None, authentication=None, verbose=True)
+2021-05-18 17:25:59,732:INFO:Initializing load_model()
+2021-05-18 17:25:59,733:INFO:load_model(model_name=gbm_model_15May2021, platform=None, authentication=None, verbose=True)
+2021-05-18 17:26:00,378:INFO:Initializing predict_model()
+2021-05-18 17:26:00,379:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      numerical_features=['Cloud3pm'],
+                                      target='RainTomorrow')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='median',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(rep...
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 LGBMClassifier(bagging_fraction=0.8608120752388259,
+                                bagging_freq=1,
+                                feature_fraction=0.4284489606984907,
+                                learning_rate=0.016133245419918712,
+                                min_child_samples=95,
+                                min_split_gain=0.8209314243567916,
+                                n_estimators=239, num_leaves=183,
+                                random_state=123,
+                                reg_alpha=8.662569304197528e-07,
+                                reg_lambda=5.001062744294253e-06)]]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2021-05-18 17:26:00,390:INFO:Checking exceptions
+2021-05-18 17:26:00,392:INFO:Preloading libraries
+2021-05-18 17:31:06,349:INFO:Initializing load_model()
+2021-05-18 17:31:06,350:INFO:load_model(model_name=gbm_model_15May2021, platform=None, authentication=None, verbose=True)
+2021-05-18 17:31:30,974:INFO:Initializing load_model()
+2021-05-18 17:31:30,975:INFO:load_model(model_name=gbm_model_15May2021, platform=None, authentication=None, verbose=True)
+2021-05-18 17:31:48,003:INFO:Initializing load_model()
+2021-05-18 17:31:48,005:INFO:load_model(model_name=gbm_model_15May2021, platform=None, authentication=None, verbose=True)
+2021-05-18 17:31:56,615:INFO:Initializing load_model()
+2021-05-18 17:31:56,616:INFO:load_model(model_name=gbm_model_15May2021, platform=None, authentication=None, verbose=True)
+2021-05-18 17:32:53,969:INFO:Initializing load_model()
+2021-05-18 17:32:53,971:INFO:load_model(model_name=gbm_model_15May2021, platform=None, authentication=None, verbose=True)
+2021-05-18 17:35:03,040:INFO:Initializing load_model()
+2021-05-18 17:35:03,041:INFO:load_model(model_name=gbm_model_15May2021, platform=None, authentication=None, verbose=True)
+2021-05-18 17:36:45,470:INFO:Initializing load_model()
+2021-05-18 17:36:45,471:INFO:load_model(model_name=gbm_model_15May2021, platform=None, authentication=None, verbose=True)
+2021-05-18 17:37:50,030:INFO:Initializing load_model()
+2021-05-18 17:37:50,031:INFO:load_model(model_name=gbm_model_15May2021, platform=None, authentication=None, verbose=True)
+2021-05-18 17:37:53,578:INFO:Initializing load_model()
+2021-05-18 17:37:53,578:INFO:load_model(model_name=gbm_model_15May2021, platform=None, authentication=None, verbose=True)
+2021-05-18 17:38:01,858:INFO:Initializing load_model()
+2021-05-18 17:38:01,859:INFO:load_model(model_name=gbm_model_15May2021, platform=None, authentication=None, verbose=True)
+2021-05-18 17:38:02,974:INFO:Initializing predict_model()
+2021-05-18 17:38:02,975:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      numerical_features=['Cloud3pm'],
+                                      target='RainTomorrow')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='median',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(rep...
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 LGBMClassifier(bagging_fraction=0.8608120752388259,
+                                bagging_freq=1,
+                                feature_fraction=0.4284489606984907,
+                                learning_rate=0.016133245419918712,
+                                min_child_samples=95,
+                                min_split_gain=0.8209314243567916,
+                                n_estimators=239, num_leaves=183,
+                                random_state=123,
+                                reg_alpha=8.662569304197528e-07,
+                                reg_lambda=5.001062744294253e-06)]]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2021-05-18 17:38:02,981:INFO:Checking exceptions
+2021-05-18 17:38:02,982:INFO:Preloading libraries
+2021-05-18 17:39:49,772:INFO:Initializing load_model()
+2021-05-18 17:39:49,773:INFO:load_model(model_name=gbm_model_15May2021, platform=None, authentication=None, verbose=True)
+2021-05-18 17:39:56,771:INFO:Initializing load_model()
+2021-05-18 17:39:56,772:INFO:load_model(model_name=gbm_model_15May2021, platform=None, authentication=None, verbose=True)
+2021-05-18 17:39:57,556:INFO:Initializing predict_model()
+2021-05-18 17:39:57,557:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      numerical_features=['Cloud3pm'],
+                                      target='RainTomorrow')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='median',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(rep...
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 LGBMClassifier(bagging_fraction=0.8608120752388259,
+                                bagging_freq=1,
+                                feature_fraction=0.4284489606984907,
+                                learning_rate=0.016133245419918712,
+                                min_child_samples=95,
+                                min_split_gain=0.8209314243567916,
+                                n_estimators=239, num_leaves=183,
+                                random_state=123,
+                                reg_alpha=8.662569304197528e-07,
+                                reg_lambda=5.001062744294253e-06)]]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2021-05-18 17:39:57,574:INFO:Checking exceptions
+2021-05-18 17:39:57,579:INFO:Preloading libraries
+2021-05-18 17:41:11,120:INFO:Initializing load_model()
+2021-05-18 17:41:11,121:INFO:load_model(model_name=gbm_model_15May2021, platform=None, authentication=None, verbose=True)
+2021-05-18 17:41:14,293:INFO:Initializing load_model()
+2021-05-18 17:41:14,294:INFO:load_model(model_name=gbm_model_15May2021, platform=None, authentication=None, verbose=True)
+2021-05-18 17:41:14,934:INFO:Initializing predict_model()
+2021-05-18 17:41:14,940:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      numerical_features=['Cloud3pm'],
+                                      target='RainTomorrow')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='median',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(rep...
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 LGBMClassifier(bagging_fraction=0.8608120752388259,
+                                bagging_freq=1,
+                                feature_fraction=0.4284489606984907,
+                                learning_rate=0.016133245419918712,
+                                min_child_samples=95,
+                                min_split_gain=0.8209314243567916,
+                                n_estimators=239, num_leaves=183,
+                                random_state=123,
+                                reg_alpha=8.662569304197528e-07,
+                                reg_lambda=5.001062744294253e-06)]]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2021-05-18 17:41:14,964:INFO:Checking exceptions
+2021-05-18 17:41:14,965:INFO:Preloading libraries
+2021-05-18 17:41:32,996:INFO:Initializing load_model()
+2021-05-18 17:41:32,997:INFO:load_model(model_name=gbm_model_15May2021, platform=None, authentication=None, verbose=True)
+2021-05-18 17:41:35,584:INFO:Initializing load_model()
+2021-05-18 17:41:35,585:INFO:load_model(model_name=gbm_model_15May2021, platform=None, authentication=None, verbose=True)
+2021-05-18 17:41:36,192:INFO:Initializing predict_model()
+2021-05-18 17:41:36,195:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      numerical_features=['Cloud3pm'],
+                                      target='RainTomorrow')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='median',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(rep...
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 LGBMClassifier(bagging_fraction=0.8608120752388259,
+                                bagging_freq=1,
+                                feature_fraction=0.4284489606984907,
+                                learning_rate=0.016133245419918712,
+                                min_child_samples=95,
+                                min_split_gain=0.8209314243567916,
+                                n_estimators=239, num_leaves=183,
+                                random_state=123,
+                                reg_alpha=8.662569304197528e-07,
+                                reg_lambda=5.001062744294253e-06)]]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2021-05-18 17:41:36,208:INFO:Checking exceptions
+2021-05-18 17:41:36,209:INFO:Preloading libraries
+2021-05-18 17:42:16,083:INFO:Initializing load_model()
+2021-05-18 17:42:16,084:INFO:load_model(model_name=gbm_model_15May2021, platform=None, authentication=None, verbose=True)
+2021-05-18 17:42:16,794:INFO:Initializing load_model()
+2021-05-18 17:42:16,794:INFO:load_model(model_name=gbm_model_15May2021, platform=None, authentication=None, verbose=True)
+2021-05-18 17:42:19,218:INFO:Initializing load_model()
+2021-05-18 17:42:19,220:INFO:load_model(model_name=gbm_model_15May2021, platform=None, authentication=None, verbose=True)
+2021-05-18 17:42:19,484:INFO:Initializing load_model()
+2021-05-18 17:42:19,485:INFO:load_model(model_name=gbm_model_15May2021, platform=None, authentication=None, verbose=True)
+2021-05-18 17:42:25,375:INFO:Initializing load_model()
+2021-05-18 17:42:25,376:INFO:load_model(model_name=gbm_model_15May2021, platform=None, authentication=None, verbose=True)
+2021-05-18 17:42:26,042:INFO:Initializing load_model()
+2021-05-18 17:42:26,043:INFO:load_model(model_name=gbm_model_15May2021, platform=None, authentication=None, verbose=True)
+2021-05-18 17:43:48,292:INFO:Initializing load_model()
+2021-05-18 17:43:48,293:INFO:load_model(model_name=gbm_model_15May2021, platform=None, authentication=None, verbose=True)
+2021-05-18 17:45:18,850:INFO:Initializing load_model()
+2021-05-18 17:45:18,851:INFO:load_model(model_name=gbm_model_15May2021, platform=None, authentication=None, verbose=True)
+2021-05-18 17:45:50,858:INFO:Initializing load_model()
+2021-05-18 17:45:50,859:INFO:load_model(model_name=gbm_model_15May2021, platform=None, authentication=None, verbose=True)
+2021-05-18 17:48:35,324:INFO:Initializing load_model()
+2021-05-18 17:48:35,325:INFO:load_model(model_name=gbm_model_15May2021, platform=None, authentication=None, verbose=True)
+2021-05-18 17:48:40,363:INFO:Initializing load_model()
+2021-05-18 17:48:40,364:INFO:load_model(model_name=gbm_model_15May2021, platform=None, authentication=None, verbose=True)
+2021-05-18 17:48:43,108:INFO:Initializing load_model()
+2021-05-18 17:48:43,110:INFO:load_model(model_name=gbm_model_15May2021, platform=None, authentication=None, verbose=True)
+2021-05-18 17:48:45,625:INFO:Initializing load_model()
+2021-05-18 17:48:45,626:INFO:load_model(model_name=gbm_model_15May2021, platform=None, authentication=None, verbose=True)
+2021-05-18 17:48:47,420:INFO:Initializing load_model()
+2021-05-18 17:48:47,422:INFO:load_model(model_name=gbm_model_15May2021, platform=None, authentication=None, verbose=True)
+2021-05-18 17:48:47,687:INFO:Initializing load_model()
+2021-05-18 17:48:47,688:INFO:load_model(model_name=gbm_model_15May2021, platform=None, authentication=None, verbose=True)
+2021-05-18 17:48:50,238:INFO:Initializing load_model()
+2021-05-18 17:48:50,240:INFO:load_model(model_name=gbm_model_15May2021, platform=None, authentication=None, verbose=True)
+2021-05-18 17:48:50,486:INFO:Initializing load_model()
+2021-05-18 17:48:50,487:INFO:load_model(model_name=gbm_model_15May2021, platform=None, authentication=None, verbose=True)
+2021-05-18 17:48:55,511:INFO:Initializing load_model()
+2021-05-18 17:48:55,512:INFO:load_model(model_name=gbm_model_15May2021, platform=None, authentication=None, verbose=True)
+2021-05-18 17:51:43,423:INFO:Initializing load_model()
+2021-05-18 17:51:43,424:INFO:load_model(model_name=gbm_model_15May2021, platform=None, authentication=None, verbose=True)
+2021-05-18 17:52:12,877:INFO:Initializing load_model()
+2021-05-18 17:52:12,878:INFO:load_model(model_name=gbm_model_15May2021, platform=None, authentication=None, verbose=True)
+2021-05-18 17:52:17,160:INFO:Initializing load_model()
+2021-05-18 17:52:17,161:INFO:load_model(model_name=gbm_model_15May2021, platform=None, authentication=None, verbose=True)
+2021-05-18 18:14:29,269:INFO:Initializing load_model()
+2021-05-18 18:14:29,270:INFO:load_model(model_name=gbm_model_15May2021, platform=None, authentication=None, verbose=True)
+2021-05-18 18:14:31,758:INFO:Initializing load_model()
+2021-05-18 18:14:31,759:INFO:load_model(model_name=gbm_model_15May2021, platform=None, authentication=None, verbose=True)
+2021-05-18 18:14:34,086:INFO:Initializing load_model()
+2021-05-18 18:14:34,087:INFO:load_model(model_name=gbm_model_15May2021, platform=None, authentication=None, verbose=True)
+2021-05-18 18:14:37,094:INFO:Initializing load_model()
+2021-05-18 18:14:37,095:INFO:load_model(model_name=gbm_model_15May2021, platform=None, authentication=None, verbose=True)
+2021-05-18 18:14:40,032:INFO:Initializing load_model()
+2021-05-18 18:14:40,033:INFO:load_model(model_name=gbm_model_15May2021, platform=None, authentication=None, verbose=True)
+2021-05-18 18:14:41,953:INFO:Initializing load_model()
+2021-05-18 18:14:41,956:INFO:load_model(model_name=gbm_model_15May2021, platform=None, authentication=None, verbose=True)
+2021-05-18 18:15:14,471:INFO:Initializing load_model()
+2021-05-18 18:15:14,472:INFO:load_model(model_name=gbm_model_15May2021, platform=None, authentication=None, verbose=True)
+2021-05-18 18:15:16,829:INFO:Initializing load_model()
+2021-05-18 18:15:16,829:INFO:load_model(model_name=gbm_model_15May2021, platform=None, authentication=None, verbose=True)
+2021-05-18 18:18:07,180:INFO:Initializing load_model()
+2021-05-18 18:18:07,182:INFO:load_model(model_name=gbm_model_15May2021, platform=None, authentication=None, verbose=True)
+2021-05-18 18:20:50,192:INFO:Initializing load_model()
+2021-05-18 18:20:50,193:INFO:load_model(model_name=gbm_model_15May2021, platform=None, authentication=None, verbose=True)
+2021-05-18 18:20:52,202:INFO:Initializing load_model()
+2021-05-18 18:20:52,204:INFO:load_model(model_name=gbm_model_15May2021, platform=None, authentication=None, verbose=True)
+2021-05-18 18:21:00,162:INFO:Initializing load_model()
+2021-05-18 18:21:00,163:INFO:load_model(model_name=gbm_model_15May2021, platform=None, authentication=None, verbose=True)
+2021-05-18 18:21:06,040:INFO:Initializing load_model()
+2021-05-18 18:21:06,040:INFO:load_model(model_name=gbm_model_15May2021, platform=None, authentication=None, verbose=True)
+2021-05-18 18:21:11,076:INFO:Initializing load_model()
+2021-05-18 18:21:11,080:INFO:load_model(model_name=gbm_model_15May2021, platform=None, authentication=None, verbose=True)
+2021-05-18 18:21:12,207:INFO:Initializing predict_model()
+2021-05-18 18:21:12,208:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      numerical_features=['Cloud3pm'],
+                                      target='RainTomorrow')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='median',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(rep...
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 LGBMClassifier(bagging_fraction=0.8608120752388259,
+                                bagging_freq=1,
+                                feature_fraction=0.4284489606984907,
+                                learning_rate=0.016133245419918712,
+                                min_child_samples=95,
+                                min_split_gain=0.8209314243567916,
+                                n_estimators=239, num_leaves=183,
+                                random_state=123,
+                                reg_alpha=8.662569304197528e-07,
+                                reg_lambda=5.001062744294253e-06)]]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2021-05-18 18:21:12,214:INFO:Checking exceptions
+2021-05-18 18:21:12,215:INFO:Preloading libraries
+2021-05-18 18:21:34,129:INFO:Initializing load_model()
+2021-05-18 18:21:34,130:INFO:load_model(model_name=gbm_model_15May2021, platform=None, authentication=None, verbose=True)
+2021-05-18 18:21:38,148:INFO:Initializing load_model()
+2021-05-18 18:21:38,149:INFO:load_model(model_name=gbm_model_15May2021, platform=None, authentication=None, verbose=True)
+2021-05-18 18:29:32,944:INFO:Initializing load_model()
+2021-05-18 18:29:32,958:INFO:load_model(model_name=gbm_model_15May2021, platform=None, authentication=None, verbose=True)
+2021-05-18 18:29:36,584:INFO:Initializing load_model()
+2021-05-18 18:29:36,585:INFO:load_model(model_name=gbm_model_15May2021, platform=None, authentication=None, verbose=True)
+2021-05-18 18:29:36,834:INFO:Initializing load_model()
+2021-05-18 18:29:36,837:INFO:load_model(model_name=gbm_model_15May2021, platform=None, authentication=None, verbose=True)
+2021-05-18 18:29:43,556:INFO:Initializing load_model()
+2021-05-18 18:29:43,557:INFO:load_model(model_name=gbm_model_15May2021, platform=None, authentication=None, verbose=True)
+2021-05-18 18:29:47,741:INFO:Initializing load_model()
+2021-05-18 18:29:47,742:INFO:load_model(model_name=gbm_model_15May2021, platform=None, authentication=None, verbose=True)
+2021-05-18 18:29:50,946:INFO:Initializing load_model()
+2021-05-18 18:29:50,947:INFO:load_model(model_name=gbm_model_15May2021, platform=None, authentication=None, verbose=True)
+2021-05-18 18:29:54,930:INFO:Initializing load_model()
+2021-05-18 18:29:54,931:INFO:load_model(model_name=gbm_model_15May2021, platform=None, authentication=None, verbose=True)
+2021-05-18 18:31:19,873:INFO:Initializing load_model()
+2021-05-18 18:31:19,874:INFO:load_model(model_name=gbm_model_15May2021, platform=None, authentication=None, verbose=True)
+2021-05-18 18:31:23,781:INFO:Initializing load_model()
+2021-05-18 18:31:23,783:INFO:load_model(model_name=gbm_model_15May2021, platform=None, authentication=None, verbose=True)
+2021-05-18 18:31:27,066:INFO:Initializing load_model()
+2021-05-18 18:31:27,067:INFO:load_model(model_name=gbm_model_15May2021, platform=None, authentication=None, verbose=True)
+2021-05-18 18:31:41,344:INFO:Initializing load_model()
+2021-05-18 18:31:41,345:INFO:load_model(model_name=gbm_model_15May2021, platform=None, authentication=None, verbose=True)
+2021-05-18 18:31:51,139:INFO:Initializing load_model()
+2021-05-18 18:31:51,140:INFO:load_model(model_name=gbm_model_15May2021, platform=None, authentication=None, verbose=True)
+2021-05-18 18:31:51,835:INFO:Initializing load_model()
+2021-05-18 18:31:51,837:INFO:load_model(model_name=gbm_model_15May2021, platform=None, authentication=None, verbose=True)
+2021-05-18 18:31:57,770:INFO:Initializing load_model()
+2021-05-18 18:31:57,771:INFO:load_model(model_name=gbm_model_15May2021, platform=None, authentication=None, verbose=True)
+2021-05-18 18:32:03,235:INFO:Initializing load_model()
+2021-05-18 18:32:03,236:INFO:load_model(model_name=gbm_model_15May2021, platform=None, authentication=None, verbose=True)
+2021-05-18 18:32:07,659:INFO:Initializing load_model()
+2021-05-18 18:32:07,660:INFO:load_model(model_name=gbm_model_15May2021, platform=None, authentication=None, verbose=True)
+2021-05-18 18:37:54,590:INFO:Initializing load_model()
+2021-05-18 18:37:54,591:INFO:load_model(model_name=gbm_model_15May2021, platform=None, authentication=None, verbose=True)
+2021-05-18 18:37:58,364:INFO:Initializing load_model()
+2021-05-18 18:37:58,365:INFO:load_model(model_name=gbm_model_15May2021, platform=None, authentication=None, verbose=True)
+2021-05-18 18:38:04,050:INFO:Initializing load_model()
+2021-05-18 18:38:04,051:INFO:load_model(model_name=gbm_model_15May2021, platform=None, authentication=None, verbose=True)
+2021-05-18 18:38:33,502:INFO:Initializing load_model()
+2021-05-18 18:38:33,503:INFO:load_model(model_name=gbm_model_15May2021, platform=None, authentication=None, verbose=True)
+2021-05-18 18:38:38,788:INFO:Initializing load_model()
+2021-05-18 18:38:38,789:INFO:load_model(model_name=gbm_model_15May2021, platform=None, authentication=None, verbose=True)
+2021-05-18 18:38:48,667:INFO:Initializing load_model()
+2021-05-18 18:38:48,668:INFO:load_model(model_name=gbm_model_15May2021, platform=None, authentication=None, verbose=True)
+2021-05-18 18:39:11,633:INFO:Initializing load_model()
+2021-05-18 18:39:11,634:INFO:load_model(model_name=gbm_model_15May2021, platform=None, authentication=None, verbose=True)
+2021-05-18 18:39:12,724:INFO:Initializing predict_model()
+2021-05-18 18:39:12,725:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      numerical_features=['Cloud3pm'],
+                                      target='RainTomorrow')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='median',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(rep...
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 LGBMClassifier(bagging_fraction=0.8608120752388259,
+                                bagging_freq=1,
+                                feature_fraction=0.4284489606984907,
+                                learning_rate=0.016133245419918712,
+                                min_child_samples=95,
+                                min_split_gain=0.8209314243567916,
+                                n_estimators=239, num_leaves=183,
+                                random_state=123,
+                                reg_alpha=8.662569304197528e-07,
+                                reg_lambda=5.001062744294253e-06)]]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2021-05-18 18:39:12,732:INFO:Checking exceptions
+2021-05-18 18:39:12,732:INFO:Preloading libraries
+2021-05-19 15:52:56,035:INFO:Initializing load_model()
+2021-05-19 15:52:56,036:INFO:load_model(model_name=gbm_model_15May2021, platform=None, authentication=None, verbose=True)
+2021-05-19 15:53:02,558:INFO:Initializing load_model()
+2021-05-19 15:53:02,559:INFO:load_model(model_name=gbm_model_15May2021, platform=None, authentication=None, verbose=True)
+2021-05-19 15:53:05,058:INFO:Initializing load_model()
+2021-05-19 15:53:05,059:INFO:load_model(model_name=gbm_model_15May2021, platform=None, authentication=None, verbose=True)
+2021-05-19 15:53:07,914:INFO:Initializing load_model()
+2021-05-19 15:53:07,915:INFO:load_model(model_name=gbm_model_15May2021, platform=None, authentication=None, verbose=True)
+2021-05-19 15:53:20,544:INFO:Initializing load_model()
+2021-05-19 15:53:20,545:INFO:load_model(model_name=gbm_model_15May2021, platform=None, authentication=None, verbose=True)
+2021-05-19 16:28:17,404:INFO:Initializing load_model()
+2021-05-19 16:28:17,405:INFO:load_model(model_name=gbm_model_15May2021, platform=None, authentication=None, verbose=True)
+2021-05-19 16:30:43,184:INFO:Initializing predict_model()
+2021-05-19 16:30:43,185:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      numerical_features=['Cloud3pm'],
+                                      target='RainTomorrow')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='median',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(rep...
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 LGBMClassifier(bagging_fraction=0.8608120752388259,
+                                bagging_freq=1,
+                                feature_fraction=0.4284489606984907,
+                                learning_rate=0.016133245419918712,
+                                min_child_samples=95,
+                                min_split_gain=0.8209314243567916,
+                                n_estimators=239, num_leaves=183,
+                                random_state=123,
+                                reg_alpha=8.662569304197528e-07,
+                                reg_lambda=5.001062744294253e-06)]]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2021-05-19 16:30:43,191:INFO:Checking exceptions
+2021-05-19 16:30:43,192:INFO:Preloading libraries
+2021-05-19 16:30:49,086:INFO:Initializing predict_model()
+2021-05-19 16:30:49,087:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      numerical_features=['Cloud3pm'],
+                                      target='RainTomorrow')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='median',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(rep...
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 LGBMClassifier(bagging_fraction=0.8608120752388259,
+                                bagging_freq=1,
+                                feature_fraction=0.4284489606984907,
+                                learning_rate=0.016133245419918712,
+                                min_child_samples=95,
+                                min_split_gain=0.8209314243567916,
+                                n_estimators=239, num_leaves=183,
+                                random_state=123,
+                                reg_alpha=8.662569304197528e-07,
+                                reg_lambda=5.001062744294253e-06)]]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2021-05-19 16:30:49,093:INFO:Checking exceptions
+2021-05-19 16:30:49,094:INFO:Preloading libraries
+2021-05-19 16:31:02,145:INFO:Initializing predict_model()
+2021-05-19 16:31:02,146:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      numerical_features=['Cloud3pm'],
+                                      target='RainTomorrow')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='median',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(rep...
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 LGBMClassifier(bagging_fraction=0.8608120752388259,
+                                bagging_freq=1,
+                                feature_fraction=0.4284489606984907,
+                                learning_rate=0.016133245419918712,
+                                min_child_samples=95,
+                                min_split_gain=0.8209314243567916,
+                                n_estimators=239, num_leaves=183,
+                                random_state=123,
+                                reg_alpha=8.662569304197528e-07,
+                                reg_lambda=5.001062744294253e-06)]]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2021-05-19 16:31:02,157:INFO:Checking exceptions
+2021-05-19 16:31:02,158:INFO:Preloading libraries
+2021-05-19 16:31:40,883:INFO:Initializing predict_model()
+2021-05-19 16:31:40,884:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      numerical_features=['Cloud3pm'],
+                                      target='RainTomorrow')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='median',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(rep...
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 LGBMClassifier(bagging_fraction=0.8608120752388259,
+                                bagging_freq=1,
+                                feature_fraction=0.4284489606984907,
+                                learning_rate=0.016133245419918712,
+                                min_child_samples=95,
+                                min_split_gain=0.8209314243567916,
+                                n_estimators=239, num_leaves=183,
+                                random_state=123,
+                                reg_alpha=8.662569304197528e-07,
+                                reg_lambda=5.001062744294253e-06)]]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2021-05-19 16:31:40,890:INFO:Checking exceptions
+2021-05-19 16:31:40,891:INFO:Preloading libraries
+2021-05-19 16:31:45,036:INFO:Initializing predict_model()
+2021-05-19 16:31:45,037:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      numerical_features=['Cloud3pm'],
+                                      target='RainTomorrow')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='median',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(rep...
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 LGBMClassifier(bagging_fraction=0.8608120752388259,
+                                bagging_freq=1,
+                                feature_fraction=0.4284489606984907,
+                                learning_rate=0.016133245419918712,
+                                min_child_samples=95,
+                                min_split_gain=0.8209314243567916,
+                                n_estimators=239, num_leaves=183,
+                                random_state=123,
+                                reg_alpha=8.662569304197528e-07,
+                                reg_lambda=5.001062744294253e-06)]]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2021-05-19 16:31:45,045:INFO:Checking exceptions
+2021-05-19 16:31:45,046:INFO:Preloading libraries
+2021-05-19 16:37:58,473:INFO:Initializing load_model()
+2021-05-19 16:37:58,475:INFO:load_model(model_name=gbm_model_15May2021, platform=None, authentication=None, verbose=True)
+2021-05-19 16:38:39,700:INFO:Initializing predict_model()
+2021-05-19 16:38:39,700:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      numerical_features=['Cloud3pm'],
+                                      target='RainTomorrow')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='median',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(rep...
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 LGBMClassifier(bagging_fraction=0.8608120752388259,
+                                bagging_freq=1,
+                                feature_fraction=0.4284489606984907,
+                                learning_rate=0.016133245419918712,
+                                min_child_samples=95,
+                                min_split_gain=0.8209314243567916,
+                                n_estimators=239, num_leaves=183,
+                                random_state=123,
+                                reg_alpha=8.662569304197528e-07,
+                                reg_lambda=5.001062744294253e-06)]]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2021-05-19 16:38:39,708:INFO:Checking exceptions
+2021-05-19 16:38:39,709:INFO:Preloading libraries
+2021-05-19 16:39:35,731:INFO:Initializing load_model()
+2021-05-19 16:39:35,731:INFO:load_model(model_name=gbm_model_15May2021, platform=None, authentication=None, verbose=True)
+2021-05-19 16:39:39,406:INFO:Initializing load_model()
+2021-05-19 16:39:39,407:INFO:load_model(model_name=gbm_model_15May2021, platform=None, authentication=None, verbose=True)
+2021-05-19 16:39:44,829:INFO:Initializing load_model()
+2021-05-19 16:39:44,830:INFO:load_model(model_name=gbm_model_15May2021, platform=None, authentication=None, verbose=True)
+2021-05-19 16:39:45,089:INFO:Initializing load_model()
+2021-05-19 16:39:45,090:INFO:load_model(model_name=gbm_model_15May2021, platform=None, authentication=None, verbose=True)
+2021-05-19 16:39:47,710:INFO:Initializing load_model()
+2021-05-19 16:39:47,711:INFO:load_model(model_name=gbm_model_15May2021, platform=None, authentication=None, verbose=True)
+2021-05-19 16:39:50,222:INFO:Initializing load_model()
+2021-05-19 16:39:50,223:INFO:load_model(model_name=gbm_model_15May2021, platform=None, authentication=None, verbose=True)
+2021-05-19 16:39:51,645:INFO:Initializing load_model()
+2021-05-19 16:39:51,648:INFO:load_model(model_name=gbm_model_15May2021, platform=None, authentication=None, verbose=True)
+2021-05-19 16:39:51,882:INFO:Initializing load_model()
+2021-05-19 16:39:51,883:INFO:load_model(model_name=gbm_model_15May2021, platform=None, authentication=None, verbose=True)
+2021-05-19 16:39:57,795:INFO:Initializing load_model()
+2021-05-19 16:39:57,796:INFO:load_model(model_name=gbm_model_15May2021, platform=None, authentication=None, verbose=True)
+2021-05-19 16:40:02,438:INFO:Initializing load_model()
+2021-05-19 16:40:02,439:INFO:load_model(model_name=gbm_model_15May2021, platform=None, authentication=None, verbose=True)
+2021-05-19 16:40:05,011:INFO:Initializing load_model()
+2021-05-19 16:40:05,012:INFO:load_model(model_name=gbm_model_15May2021, platform=None, authentication=None, verbose=True)
+2021-05-19 16:40:08,557:INFO:Initializing load_model()
+2021-05-19 16:40:08,558:INFO:load_model(model_name=gbm_model_15May2021, platform=None, authentication=None, verbose=True)
+2021-05-19 16:40:09,200:INFO:Initializing predict_model()
+2021-05-19 16:40:09,200:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      numerical_features=['Cloud3pm'],
+                                      target='RainTomorrow')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='median',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(rep...
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 LGBMClassifier(bagging_fraction=0.8608120752388259,
+                                bagging_freq=1,
+                                feature_fraction=0.4284489606984907,
+                                learning_rate=0.016133245419918712,
+                                min_child_samples=95,
+                                min_split_gain=0.8209314243567916,
+                                n_estimators=239, num_leaves=183,
+                                random_state=123,
+                                reg_alpha=8.662569304197528e-07,
+                                reg_lambda=5.001062744294253e-06)]]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2021-05-19 16:40:09,206:INFO:Checking exceptions
+2021-05-19 16:40:09,207:INFO:Preloading libraries
+2021-05-19 16:40:12,204:INFO:Initializing load_model()
+2021-05-19 16:40:12,207:INFO:load_model(model_name=gbm_model_15May2021, platform=None, authentication=None, verbose=True)
+2021-05-19 16:40:13,100:INFO:Initializing predict_model()
+2021-05-19 16:40:13,101:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      numerical_features=['Cloud3pm'],
+                                      target='RainTomorrow')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='median',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(rep...
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 LGBMClassifier(bagging_fraction=0.8608120752388259,
+                                bagging_freq=1,
+                                feature_fraction=0.4284489606984907,
+                                learning_rate=0.016133245419918712,
+                                min_child_samples=95,
+                                min_split_gain=0.8209314243567916,
+                                n_estimators=239, num_leaves=183,
+                                random_state=123,
+                                reg_alpha=8.662569304197528e-07,
+                                reg_lambda=5.001062744294253e-06)]]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2021-05-19 16:40:13,107:INFO:Checking exceptions
+2021-05-19 16:40:13,109:INFO:Preloading libraries
+2021-05-19 16:40:17,327:INFO:Initializing load_model()
+2021-05-19 16:40:17,329:INFO:load_model(model_name=gbm_model_15May2021, platform=None, authentication=None, verbose=True)
+2021-05-19 16:40:17,556:INFO:Initializing load_model()
+2021-05-19 16:40:17,556:INFO:load_model(model_name=gbm_model_15May2021, platform=None, authentication=None, verbose=True)
+2021-05-19 16:40:19,927:INFO:Initializing load_model()
+2021-05-19 16:40:19,929:INFO:load_model(model_name=gbm_model_15May2021, platform=None, authentication=None, verbose=True)
+2021-05-19 16:40:20,124:INFO:Initializing load_model()
+2021-05-19 16:40:20,126:INFO:load_model(model_name=gbm_model_15May2021, platform=None, authentication=None, verbose=True)
+2021-05-19 16:40:20,755:INFO:Initializing predict_model()
+2021-05-19 16:40:20,756:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      numerical_features=['Cloud3pm'],
+                                      target='RainTomorrow')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='median',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(rep...
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 LGBMClassifier(bagging_fraction=0.8608120752388259,
+                                bagging_freq=1,
+                                feature_fraction=0.4284489606984907,
+                                learning_rate=0.016133245419918712,
+                                min_child_samples=95,
+                                min_split_gain=0.8209314243567916,
+                                n_estimators=239, num_leaves=183,
+                                random_state=123,
+                                reg_alpha=8.662569304197528e-07,
+                                reg_lambda=5.001062744294253e-06)]]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2021-05-19 16:40:20,764:INFO:Checking exceptions
+2021-05-19 16:40:20,765:INFO:Preloading libraries
+2021-05-19 16:40:24,621:INFO:Initializing load_model()
+2021-05-19 16:40:24,622:INFO:load_model(model_name=gbm_model_15May2021, platform=None, authentication=None, verbose=True)
+2021-05-19 16:40:25,250:INFO:Initializing predict_model()
+2021-05-19 16:40:25,251:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      numerical_features=['Cloud3pm'],
+                                      target='RainTomorrow')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='median',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(rep...
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 LGBMClassifier(bagging_fraction=0.8608120752388259,
+                                bagging_freq=1,
+                                feature_fraction=0.4284489606984907,
+                                learning_rate=0.016133245419918712,
+                                min_child_samples=95,
+                                min_split_gain=0.8209314243567916,
+                                n_estimators=239, num_leaves=183,
+                                random_state=123,
+                                reg_alpha=8.662569304197528e-07,
+                                reg_lambda=5.001062744294253e-06)]]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2021-05-19 16:40:25,257:INFO:Checking exceptions
+2021-05-19 16:40:25,257:INFO:Preloading libraries
+2021-05-19 16:40:59,024:INFO:Initializing load_model()
+2021-05-19 16:40:59,025:INFO:load_model(model_name=gbm_model_15May2021, platform=None, authentication=None, verbose=True)
+2021-05-19 16:41:00,433:INFO:Initializing load_model()
+2021-05-19 16:41:00,434:INFO:load_model(model_name=gbm_model_15May2021, platform=None, authentication=None, verbose=True)
+2021-05-19 16:41:03,030:INFO:Initializing load_model()
+2021-05-19 16:41:03,031:INFO:load_model(model_name=gbm_model_15May2021, platform=None, authentication=None, verbose=True)
+2021-05-19 16:41:03,231:INFO:Initializing predict_model()
+2021-05-19 16:41:03,233:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      numerical_features=['Cloud3pm'],
+                                      target='RainTomorrow')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='median',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(rep...
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 LGBMClassifier(bagging_fraction=0.8608120752388259,
+                                bagging_freq=1,
+                                feature_fraction=0.4284489606984907,
+                                learning_rate=0.016133245419918712,
+                                min_child_samples=95,
+                                min_split_gain=0.8209314243567916,
+                                n_estimators=239, num_leaves=183,
+                                random_state=123,
+                                reg_alpha=8.662569304197528e-07,
+                                reg_lambda=5.001062744294253e-06)]]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2021-05-19 16:41:03,252:INFO:Checking exceptions
+2021-05-19 16:41:03,254:INFO:Preloading libraries
+2021-05-19 16:41:14,278:INFO:Initializing load_model()
+2021-05-19 16:41:14,279:INFO:load_model(model_name=gbm_model_15May2021, platform=None, authentication=None, verbose=True)
+2021-05-19 16:42:25,109:INFO:Initializing load_model()
+2021-05-19 16:42:25,110:INFO:load_model(model_name=gbm_model_15May2021, platform=None, authentication=None, verbose=True)
+2021-05-19 16:42:29,690:INFO:Initializing load_model()
+2021-05-19 16:42:29,691:INFO:load_model(model_name=gbm_model_15May2021, platform=None, authentication=None, verbose=True)
