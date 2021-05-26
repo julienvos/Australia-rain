@@ -6,6 +6,6 @@ In this repo I perform an EDA and develop a prediction model on the kaggle data 
 
 The EDA is doen with pandas-profiling
 
-The model is developed with the use of pycaret
+The model is developed with pycaret
 
 The ML app is developed with streamlit
